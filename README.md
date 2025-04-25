@@ -20,3 +20,6 @@ An intelligent web app that simplifies long articles, essays, or documents into 
 | File Parsing | PyMuPDF (PDF), Tesseract OCR (Images)      |
 | Styling      | Custom CSS                                 |
 | Deployment   | Localhost                                  |
+
+
+Ai Assistants used: ChatGPT, Claude
