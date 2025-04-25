@@ -2,8 +2,6 @@
 
 An intelligent web application that transforms lengthy articles, essays, or documents into concise, easy-to-understand summaries with customizable tone and length options.
 
-![Article Summarizer](![image](https://github.com/user-attachments/assets/23a2fb69-fc0f-4481-a68b-8be87b8f4eb0)
-)
 
 ## ✨ Overview
 
@@ -153,15 +151,6 @@ http://localhost:5000
    - The summary is processed to highlight subtopics and improve readability
    - The formatted result is displayed to the user
 
-## 🙌 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ## 📄 License
 
